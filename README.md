@@ -1,16 +1,12 @@
-# biopharmacy
+# All in one biopharmaceutics 
 
-A new Flutter project.
+some of clinically useful biopharmaceutics calculations methods  
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+For any suggestion on comments contact me at:  
 
-A few resources to get you started if this is your first Flutter project:
+- [LinkedIn](https://www.linkedin.com/in/mohammad-hasannejad-520b6a106/)
+- [Instagram](https://www.instagram.com/neuralx_ai/)
+- [Telegram](https://t.me/array_starts_at_0)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
